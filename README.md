@@ -2,7 +2,7 @@
 
 - 🔭 Me chamo João!
 - 🌱 Atualmente estudando HTML, CSS e Design
-- 📫 contato: joao@editaaedesign.com.br
+- 📫 Contate-me no email: joao@editaaedesign.com.br
 
 ##
 
